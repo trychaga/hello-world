@@ -1,2 +1,2 @@
 # hello-world
-my own repository
+my own repository just created as an initial. im a hobbyist
